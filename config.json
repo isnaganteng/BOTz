@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6285778225339@s.whatsapp.net"],
+    "ownerName": "ISNA GANTENG ×፝֟͜×",
+    "instagram" : "https://instagram.com/isna.zip",
+    "gcwa" : "https://instabio.cc/Alphabot",
+    "botName": "Tsan-BOTz ",
+    "footer": "2023 © Tsan-BOTz",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "ZgFiayQnU6irNiv",
+    "OpenAIKey": "org-O5Ur9viWE2VQts2OW0eNp27M",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": false,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
